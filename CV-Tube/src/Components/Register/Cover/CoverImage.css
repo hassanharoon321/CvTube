@@ -1,0 +1,178 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-section {
+  position: relative;
+  display: flex;
+  height: 700px;
+  width: 100%;
+}
+
+.img-des {
+  background-size: 100%;
+}
+
+.logo-2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 240px;
+  height: 200px;
+  width: 300px;
+}
+
+.img-src{
+  height: 50px;
+  width: 250px;
+}
+
+.for-recruiters{
+  color: #865DDD;
+  margin-top: 10px;
+}
+
+.form-section {
+  position: absolute;
+  margin-left: 90px;
+  margin-top: 200px;
+  height: 450px;
+  width: 600px;
+  background-color: #fff;
+  box-shadow: 0 0 5px 5px #f2f2f2;
+  border-radius: 10px;
+}
+
+.reg{
+  margin-left: 230px;
+  margin-top: 10px;
+}
+
+.form-1{
+  margin-top: 30px;
+  /* background-color: blue; */
+  width: 300px;
+}
+
+.name-label-1{
+  margin-bottom: 20px;
+  margin-left: 20px;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.form-name-1{
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  width: 70%;
+  color: #C8C8C8;
+  border: 0;
+  border-bottom: 1px solid black;
+}
+
+.form-2{
+  margin-left: 300px;
+  margin-top: -230px;
+}
+
+.name-label-2{
+  margin-bottom: 20px;
+  margin-left: 10px;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.form-name-2{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  width: 70%;
+  color: #C8C8C8;
+  border: 0;
+  border-bottom: 1px solid black;
+}
+
+.form-3{
+  margin-top: 80px;
+}
+
+.terms-cond{
+  font-size: 10px;
+  margin-left: 150px;
+}
+
+.reg-btn{
+  margin-left: 150px;
+  margin-top: 20px;
+  width: 40%;
+  padding: 5px;
+  background-color: #865DDD;
+  cursor: pointer;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+}
+
+.have-an-account{
+  margin-left: 150px;
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.terms-and-cond-app{
+  color: #865DDD;
+  border-bottom: 1px solid #865DDD;
+}
+
+
+
+
+
+
+
+/* .reg{
+  margin-top: 10px;
+  font-size: 2.5rem;
+  color: #865DDD;
+} 
+
+.form-1{
+  height: 250px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 100px;
+  margin-right: 100px;
+}
+
+.form-2{
+  height: 250px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-top: 100px;
+  margin-right: 100px;
+}
+
+.agree{
+  height: 50px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
